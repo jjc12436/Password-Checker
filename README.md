@@ -1,4 +1,5 @@
 Password Checker:
+
 A simple password validation tool that enforces common password security rules and demonstrates secure authentication  practices.
 
 
